@@ -1,5 +1,5 @@
 # Problem Statement
-<p align=justify> The topic of this assignment was the calculation of the factorial of an integer number input to the system by the user.<br> </p>
+<p align=justify> The topic of this assignment is the calculation of the factorial of an integer number input to the system by the user.<br> </p>
 
 # Operation Principle
 ## Inputs 
