@@ -1,2 +1,2 @@
 # Computer-Architecture--MIPS--Assignment
-The answers to the assignments of the Computer course as taught in the Electrical and Computer Engineering Department of the Aristotle University in 2016. Co-authored with mr. George Vafiadis.
+The answers to the assignments of the Computer Architecture course as taught in the Electrical and Computer Engineering Department of the Aristotle University in 2016. The code was developed in Assembly and it is more specifically compatible to the MIPS Architecture.
