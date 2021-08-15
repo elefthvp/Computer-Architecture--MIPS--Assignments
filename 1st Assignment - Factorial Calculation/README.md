@@ -3,7 +3,7 @@
 
 # Operation Principle
 ## Inputs 
-<p align=justify> At the beginning of the implemented code, the user is asked to input an integer value using the keyboard and press <ENTER> for the programme to continue its execution. <br> </p>
+<p align=justify> At the beginning of the implemented code, the user is asked to input an integer value using the keyboard and press ENTER for the programme to continue its execution. <br> </p>
 
 ## Outputs
 <p align=justify> The code ouputs the results of the factorial calculation as well as certain fixed string messages that enable the communication with the user. <br> </p>
