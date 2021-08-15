@@ -12,7 +12,7 @@
 <p align=justify> The factorial of the desired number is calculated using a recursive methodology. More specifically, the input undergoes a subtraction by 1, recursively. In the main body of the recursive algorithm, a condition is checked everytime to decide whether the value used to call the function is finally equal to 1. If yes, the recursion finally returns bottom-up, multiplying the so-far result with its upper integer for each time, thus calculating the factorial. <br></p>
 
 # Key Commands
-<p align=justify> The MIPS scheme falls withn the RISC Architecture Category, meaning the set of available instructions is highly limited. As a result, blocks of basic commands are employed to carry out essential functions that would otherwise (i.e. in a high-level programming language) be easy to implement with just one simple command. <br></p>
+<p align=justify> The MIPS scheme falls within the RISC Architecture Category, meaning the set of available instructions is highly limited. As a result, blocks of basic commands are employed to carry out essential functions that would otherwise (i.e. in a high-level programming language) be easy to implement with just one simple command. <br></p>
 <p align=justify> Some fundamental MIPS Assembly commands used in this software can be seen below: <br></p>
 
 - `syscall` : used for a set of system services like input, output and exit. The desired system service is defined prior to using the `syscall` command by loading a certain integer in the register `$v0` using the load immediate command `li`.
